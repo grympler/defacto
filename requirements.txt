@@ -1,0 +1,6 @@
+docopt
+flask
+flask_cors
+flask_restful
+python-json-logger
+requests
